@@ -14,7 +14,7 @@
 <p align="center">
    Are you a n early 🐤 or a night 🦉?
    <br/>
-   When are you most productive during the day?
+   When are you most product ive during the day?
    <br/>
    Let's check out in gist!
 </p>
